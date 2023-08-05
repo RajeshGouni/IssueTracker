@@ -10,7 +10,7 @@ Show a list of projects. Give a button to create a new Project (On creating a ne
 
 2.Create Project Page
 
-  i.Accept the following fields to create a project:
+  Accept the following fields to create a project:
 
    Name,Description,Author.
   
