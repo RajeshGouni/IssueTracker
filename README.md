@@ -2,6 +2,19 @@ Issue Tracker
 
 This is an Issue Tracker App which is used to create a project and maintain the  details of all the  Issues and Bugs related to the same.
 
+Installation
+
+To run this application on your local machine, please follow these steps:
+
+Clone this repository using the following command:https://github.com/RajeshGouni/IssueTracker.git
+
+Install the required dependencies using the following command: $ npm install
+
+Start the application using the following command: $ npm run start
+
+Open the application in your web browser by visiting the following URL: $ http://localhost:8000
+
+
 Features:
 
 1.Home Page:
